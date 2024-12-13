@@ -1,0 +1,5 @@
+1) git branch home_work_25
+2) git checkout home_work_25
+3) git add .
+4) git status
+5)
