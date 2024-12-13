@@ -6,5 +6,6 @@
 6) git add .
 7) git commit -m "Fixed commands.txt"
 8) git push
-9) git checkout master
-10) git merge home_work_25
+9) git push --set-upstream origin home_work_25 (предыдущая команда не сработала)
+10) git checkout master
+11) git merge home_work_25
