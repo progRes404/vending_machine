@@ -2,4 +2,9 @@
 2) git checkout home_work_25
 3) git add .
 4) git status
-5)
+5) git commit -m "Changed class name to more generic (MoneyAcceptor) and fixed AppRunner."
+6) git add .
+7) git commit -m "Fixed commands.txt"
+8) git push
+9) git checkout master
+10) git merge home_work_25
